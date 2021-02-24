@@ -80,44 +80,40 @@ This split will be initiated for all transactions.
 ### Configure the plugin
 To configure the plugin, go to __WooCommerce > Settings__ from the left menu, click __Payments__ tab. Click on __Rave__.
 
-* __Enable/Disable__ - check the box to enable Rave Payment Gateway.
-* __Mode__ - check the box to enable Live Mode.
-* __Webhook Instruction__ - please ensure that you copied the url displayed in red into your Rave dashboard as described.
-* __Enter Secret Hash__ - ensure that secret hash entered is the same with the one on your Rave dashboard.
-* __Rave Test Public Key__ - enter your test public key ravesandbox.flutterwave.com.
-* __Rave Test Secret Key__ - enter your test secret key ravesandbox.flutterwave.com.
-* __Rave Live Public Key__ - enter your live public key rave.flutterwave.com.
-* __Rave Live Secret Key__ - enter your live secret key rave.flutterwave.com.
+* __Enable/Disable__ - Check the box to enable Rave Payment Gateway.
+* __Mode__ - Check the box to enable Live Mode.
+* __Webhook Instruction__ - Please ensure that you copied the URL displayed in red into your Rave dashboard as described.
+* __Enter Secret Hash__ - Ensure that secret hash entered is the same with the one on your Rave dashboard.
+* __Rave Test Public Key__ - Enter your test public key ravesandbox.flutterwave.com.
+* __Rave Test Secret Key__ - Enter your test secret key ravesandbox.flutterwave.com.
+* __Rave Live Public Key__ - Enter your live public key rave.flutterwave.com.
+* __Rave Live Secret Key__ - Enter your live secret key rave.flutterwave.com.
 * Click __Save Changes__ to save your changes.
 
 
 
-## Screenshots ##
+## Screenshots
 
-#####1. Rave WooCommerce Payment Gateway Setting Page
-###
-![Screenshot 1](assets/img/screen1.PNG)
-
-
-#####2. Rave WooCommerce Payment Gateway on woocommerce order checkout page
-###
-![Screenshot 2](https://cloud.githubusercontent.com/assets/8383666/21472783/a87138de-cae9-11e6-9330-4550c45a028c.png)
+##### 1. Rave WooCommerce Payment Gateway Setting Page
+![Screenshot featuring Rave's WooCommerce Payment Gateway Setting Page](assets/img/screen1.PNG)
 
 
-#####3. Rave pay modal showing card payment option
-###
-![Screenshot 3](assets/img/screen2.PNG)
+##### 2. Rave WooCommerce Payment Gateway on the Woocommerce order checkout page
+![Screenshot featuring Rave's WooCommerce Payment Gateway on the WooCommerce order checkout page](https://cloud.githubusercontent.com/assets/8383666/21472783/a87138de-cae9-11e6-9330-4550c45a028c.png)
 
 
-#####4. Rave pay modal showing account payment option
-###
-![Screenshot 4](assets/img/screen3.PNG)
+##### 3. Rave pay modal showing card payment option
+![Screenshot with Rave's pay modal showing card payment options](assets/img/screen2.PNG)
+
+
+##### 4. Rave pay modal showing account payment option
+![Screenshot with Rave's pay modal showing account payment options](assets/img/screen3.PNG)
 
 
 
 ### Suggestions / Contributions
 
-To contribute, fork the repo, add your changes and modifications then create a pull request.
+To contribute, fork the repo, add your changes and modifications, then create a pull request.
 
 
 ### License
